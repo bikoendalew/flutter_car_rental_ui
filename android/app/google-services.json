@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "58295680120",
+    "project_id": "biruk-car-rental-a6b8d",
+    "storage_bucket": "biruk-car-rental-a6b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58295680120:android:ed8bbd4fdfa5d8ae2dc18d",
+        "android_client_info": {
+          "package_name": "biruk.car.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtv5SwrCEDesI-iaqcO_4NpfwwAS666Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58295680120:android:60593b1879e71e582dc18d",
+        "android_client_info": {
+          "package_name": "biruk.car.rental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtv5SwrCEDesI-iaqcO_4NpfwwAS666Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58295680120:android:80a7aa88b9d680902dc18d",
+        "android_client_info": {
+          "package_name": "com.example.car_rental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtv5SwrCEDesI-iaqcO_4NpfwwAS666Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
